@@ -5,7 +5,7 @@ metadata:
   namespace: flux-system
 spec:
   interval: 30s
-  url: "https://github.com/starlord-daniel/dhkalypso-svc-gitops"
+  url: "https://github.com/microsoft/kalypso-svc-gitops"
   ref:
     branch: "dev"
   secretRef:
